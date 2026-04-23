@@ -9,9 +9,12 @@
 Chetan Patil
 
 📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="165"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan323212&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=chetanpatil&theme=tokyonight" height="165"/>
+</p>
 🔥 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan323212&theme=tokyo-night"/> </p>
 🧠 What You’ll Learn
 
 ✨ This repository is designed to help you:
