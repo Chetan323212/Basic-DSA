@@ -1,5 +1,9 @@
 🚀 Basic DSA Repository
-<p align="center"> <b>Master Data Structures & Algorithms with clean, structured, and interview-ready solutions</b> </p> <p align="center"> <a href="#"><img src="https://img.shields.io/github/stars/your-username/Basic-DSA?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/github/forks/your-username/Basic-DSA?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/github/contributors/your-username/Basic-DSA?style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/github/issues/your-username/Basic-DSA?style=for-the-badge"></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan323212&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan323212&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
 👨‍💻 Author
 
 Chetan Patil
