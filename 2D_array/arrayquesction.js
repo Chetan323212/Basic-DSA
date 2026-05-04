@@ -26,19 +26,22 @@
 // console.table(array)
 
 //============================================================================================================
-//Transpose:
-//Swap rows and columns [j][i] = grid[i][j]
-// let array = [[1,2,3],[4,5,6],[7,8,9]]
-// let transposed = []
-
-// for(let i = 0; i < array.length; i++){
-//     transposed[i] = []
-// }
-// for(let i = 0; i < array.length; i++){
-//     for(let j = 0; j < array[i].length; j++){
-//         transposed[j][i] = array[i][j]
-//     }
-// }
-// array = transposed
-// console.log(transposed)  
+// Transpose:
+// Swap rows and columns [j][i] = grid[i][j]
+let array = [[1,2,3],[4,5,6]]
+let transposed = []
+// 
+for(let i = 0; i < array.length; i++){
+    transposed[i] = []
+}
+for(let i = 0; i < array.length; i++){
+    for(let j = 0; j < array[i].length; j++){
+        transposed[j][i] = array[i][j]
+    }
+}
+array = transposed
+console.log(transposed)  
 //Note :-> allway's denot i = row and j = column so if you want to change the value just change the position
+
+
+
